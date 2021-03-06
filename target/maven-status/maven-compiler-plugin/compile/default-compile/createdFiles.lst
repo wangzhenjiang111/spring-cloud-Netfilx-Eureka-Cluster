@@ -1,0 +1,3 @@
+com\springcloud\nexflix\eureka\cluster\eurekaClusterServerApplication.class
+com\springcloud\nexflix\eureka\cluster\listener\EurekaStateChangeListener.class
+com\springcloud\nexflix\eureka\cluster\configuration\WebSecurityConfig.class
